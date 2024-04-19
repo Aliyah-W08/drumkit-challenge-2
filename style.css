@@ -26,7 +26,11 @@ button{ /* when decorating the drum class it will affect hav an imapct on all th
     height: 100px;
     text-align: center;
     margin: 10px; /*seperates each button*/
-} 
-.buttons div{ 
-    
+  }
+ 
+
+p{
+    font-size: 2rem;
+    margin-top: 0%;
+    margin-bottom: 0%;
 }
