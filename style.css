@@ -2,19 +2,16 @@ body{
     background-color: black;
     text-align: center;
 }
-
 h1{
     font-size: 5rem;
     text-shadow: 5px 0 rgb(247, 69, 98);
     margin: 0px;
 }
-
 img{
 align-items: center;
 width: 400px;
 height: 200;
 margin: 10px;
-
 }
 
 button{ /* when decorating the drum class it will affect hav an imapct on all the different buttons*/
@@ -27,8 +24,7 @@ button{ /* when decorating the drum class it will affect hav an imapct on all th
     text-align: center;
     margin: 10px; /*seperates each button*/
   }
- 
-
+  
 p{
     font-size: 2rem;
     margin-top: 0%;
